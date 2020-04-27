@@ -13,6 +13,7 @@
 		F4A75C4C24577BC200DBA29C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A75C4A24577BC200DBA29C /* Main.storyboard */; };
 		F4A75C4E24577BC400DBA29C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4A75C4D24577BC400DBA29C /* Assets.xcassets */; };
 		F4A75C5124577BC400DBA29C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A75C4F24577BC400DBA29C /* LaunchScreen.storyboard */; };
+		F4A75C5924577BE300DBA29C /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A75C5824577BE300DBA29C /* Date.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F4A75C4D24577BC400DBA29C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4A75C5024577BC400DBA29C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4A75C5224577BC400DBA29C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4A75C5824577BE300DBA29C /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F4A75C4424577BC200DBA29C /* AppDelegate.swift */,
 				F4A75C4624577BC200DBA29C /* SceneDelegate.swift */,
 				F4A75C4824577BC200DBA29C /* ViewController.swift */,
+				F4A75C5824577BE300DBA29C /* Date.swift */,
 				F4A75C4A24577BC200DBA29C /* Main.storyboard */,
 				F4A75C4D24577BC400DBA29C /* Assets.xcassets */,
 				F4A75C4F24577BC400DBA29C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F4A75C4924577BC200DBA29C /* ViewController.swift in Sources */,
 				F4A75C4524577BC200DBA29C /* AppDelegate.swift in Sources */,
 				F4A75C4724577BC200DBA29C /* SceneDelegate.swift in Sources */,
+				F4A75C5924577BE300DBA29C /* Date.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
